@@ -4,7 +4,7 @@ const datos = "Propuesta: crear un canal comunitario de información verificada.
 
 const opciones = {
   hostname: "localhost",
-  port: 3000,
+  port: 5213,
   path: "/propuestas",
   method: "POST",
   headers: {
